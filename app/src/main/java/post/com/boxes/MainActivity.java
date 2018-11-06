@@ -1,5 +1,5 @@
 package post.com.boxes;
-
+/*                             題目: http://litotom.com/a2018mid/                  */
 import android.content.Intent;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
