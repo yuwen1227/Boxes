@@ -36,13 +36,15 @@ public class MainActivity extends AppCompatActivity {
         if(length <= 39.5 && width <= 27.5 && height <= 23){
             Intent intent = new Intent(this,ResultActivity.class);
             startActivity(intent);
+
         }
         if(length <= 23 && width <= 14 && height <= 13){
             Intent intent = new Intent(this,Result2Activity.class);
             startActivity(intent);
-        }
-    }
 
+        }
+
+    }
 }
 
 
